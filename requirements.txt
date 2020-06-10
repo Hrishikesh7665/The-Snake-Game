@@ -1,3 +1,4 @@
-Python3
+Python3.x 
 Pygame
-Numpy
+Tkinter
+Numpy etc
