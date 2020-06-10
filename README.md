@@ -11,9 +11,12 @@ Dependencies:
   Numpy
   etc
 
-In Case If You Don't Have Pygame And Numpy Installed
+In Case If You Don't Have Pygame And Numpy Installed :
+
   pip install pygame
+  
   pip install numpy
+
 
 Tested on Platforms:
 
