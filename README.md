@@ -8,6 +8,7 @@ Dependencies:
   
   Python3
   Pygame
+  Tkinter
   Numpy
   etc.
 
