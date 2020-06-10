@@ -1,7 +1,7 @@
 # The-Snake-Game
 The-Snake-Game In Python 3.8.2  
 
-All Resources Use In This Project Is Downloaded From Google And It's Bellong To Their Respective owners.
+All Resources Use In This Project Is Downloaded From Google And It's Bellong To Their Respective Owners.
 
 
 Dependencies:
