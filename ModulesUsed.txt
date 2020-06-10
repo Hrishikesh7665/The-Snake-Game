@@ -1,0 +1,10 @@
+webbrowser
+threading
+tkinter
+Pygame
+pickle
+random
+Numpy
+math
+time
+os
