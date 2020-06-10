@@ -935,7 +935,7 @@ def checkdetails():     #Player Name Conformation
     playername = Name_entry.get()
     if (playername!=""):
         c2.config(text="Login Successful",bg='spring green')  
-        confrom = messagebox.askquestion("confirmation","From Hrishikesh \nDo Any Change ?",default='no')  
+        confrom = messagebox.askquestion("Confirmation","From Hrishikesh:- \nDo Any Change ?",default='no')  
         if confrom == 'no':
             pygame.mixer.music.load(bm2)
             pygame.mixer.music.play(-1)
