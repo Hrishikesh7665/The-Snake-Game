@@ -5,7 +5,6 @@ environ['PYGAME_HIDE_SUPPORT_PROMPT'] = '1'       #<-------------- Hide Wellcome
 environ['SDL_VIDEO_CENTERED'] = '1'               #<------------- Open Pygame Window To Center Of Screen
 import pygame
 import pygame.freetype
-import sys
 import random
 import math
 from pygame.locals import *
