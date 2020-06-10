@@ -4,12 +4,7 @@ The-Snake-Game In Python 3.8.2
 All Resources Use In This Project Is Downloaded From Google And It's Bellong To Their Respective owners.
 
 Dependencies:
-
-  Python3.x
-  Pygame 
-  Tkinter
-  Numpy
-  etc
+![Farmers Market Finder Demo](requirements.txt)
 
 In Case If You Don't Have Pygame And Numpy Installed :
 
