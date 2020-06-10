@@ -1,4 +1,5 @@
 Python3.x 
 Pygame
 Tkinter
-Numpy etc
+Numpy 
+etc
