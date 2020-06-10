@@ -21,7 +21,9 @@ Tested on Platforms:
 
 Clone The Repo Or Download It And Run..
 
-Screenshots:
+Demo:
+
+![Farmers Market Finder Demo](Demo/The-Snake-Game.gif)
 
 
 
